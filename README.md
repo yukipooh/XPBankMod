@@ -9,3 +9,5 @@ You can see the recipe below.
 
 ![mod recipe](https://user-images.githubusercontent.com/66027715/109853308-1d660d80-7c99-11eb-8c83-f1707be8af9d.png)
 
+You can download this mod from https://github.com/yukipooh/XPBankMod/blob/main/XPBankMod1.0.jar
+
