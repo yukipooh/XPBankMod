@@ -1,0 +1,16 @@
+[
+{
+  "modid": "XPBankMod",
+  "name": "XPBank Mod",
+  "description": "Add EXP store-system for minecraft 1.7.10.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yukipooh"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
