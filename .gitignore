@@ -23,6 +23,7 @@
 *.iml
 *.ipr
 *.iws
+*.info
 
 # Folders
 .idea/
